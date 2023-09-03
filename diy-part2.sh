@@ -12,4 +12,5 @@
 
 # Modify default IP
 #sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
-https://xn--4gq62f52gdss.com/api/v1/client/subscribe?token=e1a2217a9e98f82611b1d6665eaa2deb
+git clone https://github.com/EOYOHOO/UA2F.git package/UA2F
+git clone https://github.com/EOYOHOO/rkp-ipid.git package/rkp-ipid
